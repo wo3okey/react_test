@@ -1,5 +1,5 @@
 ## mycoupons ##
-마이쿠폰함을 만들기 위한 간이 프로젝트
+마이쿠폰함을 만들기 위한 간이 프로젝트2
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
